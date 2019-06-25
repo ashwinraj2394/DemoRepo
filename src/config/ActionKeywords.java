@@ -48,6 +48,10 @@ public class ActionKeywords {
 		 driver.findElement(By.xpath("/html/body/div[2]/header/div[2]/div/div/div/ul/li/a/span/span[2]")).click();
 	 }
 	 
+	 public static void New_Class(){
+		 System.out.println("I am New Method for this class");
+	 }
+	 
 	 public static void closeBrowser(){
 	 driver.quit();
 	 }
