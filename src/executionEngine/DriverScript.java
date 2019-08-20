@@ -7,7 +7,6 @@ import utility.ExcelUtils;
 
 
 public class DriverScript {
-	 public static ActionKeywords actionKeywords;
 	 public static String sActionKeyword;
 	 public static Method method[];
 	
